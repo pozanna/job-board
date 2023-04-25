@@ -1,0 +1,17 @@
+.appContainer {
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 80px;
+}
+
+.footerContainer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 80px;
+  background-color: #dddddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

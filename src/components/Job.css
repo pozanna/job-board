@@ -1,0 +1,45 @@
+.jobContainer {
+  width: 300px;
+  height: 300px;
+  border-style: solid;
+  border-width: 10px;
+  /* border: solid #5b6dcd 10px; */
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+}
+.jobContainer > h3 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+  margin: 18px;
+  line-height: 32px;
+  /* background-color: yellow; */
+}
+.discriptionRow {
+  /* background-color: aqua; */
+  display: flex;
+  flex: 1;
+  align-items: flex-end;
+  margin-left: 18px;
+}
+.red {
+  border-color: red;
+}
+.green {
+  border-color: green;
+}
+
+.yellow {
+  border-color: yellow;
+}
+
+.blue {
+  border-color: blue;
+}
+
+.pink {
+  border-color: pink;
+}
